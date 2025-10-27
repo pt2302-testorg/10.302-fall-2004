@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes solution of the problem given in recitation problem
   for session 21.
 file: /courses/10-302-transport-processes-fall-2004/ab3c4c8ebe936ec1c17f46cfc71a977c_rec1019soln.pdf
+file_size: 357855
 file_type: application/pdf
 learning_resource_types:
 - Recitations

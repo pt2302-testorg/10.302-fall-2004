@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/10-302-transport-processes-fall-2004/7173fb32543a106b683895937b6e1ec3_pset3.pdf
+file_size: 14069
 file_type: application/pdf
 learning_resource_types:
 - Assignments

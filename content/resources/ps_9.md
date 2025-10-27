@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes 4 problems based on the readings of course text.
 file: /courses/10-302-transport-processes-fall-2004/c4a9a6e9af13b4b5e00df85f90d24445_ps_9.pdf
+file_size: 53555
 file_type: application/pdf
 learning_resource_types:
 - Assignments

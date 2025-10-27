@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes the solution of quiz asked in quiz 4.
 file: /courses/10-302-transport-processes-fall-2004/6806f1c80e9f52956f70367c2cc2441a_quiz4soln.pdf
+file_size: 235311
 file_type: application/pdf
 learning_resource_types:
 - Exams

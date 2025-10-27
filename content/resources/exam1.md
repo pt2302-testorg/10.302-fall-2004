@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes 2 problems based on concentric cylinders, and
   Surface Heat Conduction.
 file: /courses/10-302-transport-processes-fall-2004/c4c247bbd4f7e75124dc972df58fe77d_exam1.pdf
+file_size: 142526
 file_type: application/pdf
 learning_resource_types:
 - Exams
